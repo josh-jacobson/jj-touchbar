@@ -13,8 +13,8 @@ Weather view:
 * Simple, old-school volume and brightness controls
 * Current temperature and weather icon
 * Intuitive gestures:
-** tap the now playing display to play/pause
-** long press the now playing display to open Spotify
+  - tap the now playing display to play/pause
+  - long press the now playing display to open Spotify
 ** tap the weather icon for full weather info, with today's high and low and a 6-day forecast
 ** swipe right for next song, left for previous (threshold set at 10% to avoid acidental swipes)
 ** two finger swipe for volume slider
