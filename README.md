@@ -15,11 +15,11 @@ Weather view:
 * Intuitive gestures:
   - tap the now playing display to play/pause
   - long press the now playing display to open Spotify
-** tap the weather icon for full weather info, with today's high and low and a 6-day forecast
-** swipe right for next song, left for previous (threshold set at 10% to avoid acidental swipes)
-** two finger swipe for volume slider
-** three finger swipe for brightness slider
-** four finger swipe for keyboard backlight brightness
+  - tap the weather icon for full weather info, with today's high and low and a 6-day forecast
+  - swipe right for next song, left for previous (threshold set at 10% to avoid acidental swipes)
+  - two finger swipe for volume slider
+  - three finger swipe for brightness slider
+  - four finger swipe for keyboard backlight brightness
 
 ## Installation
 Simply download the .btt preset and open with BetterTouchTool. Customize as you like, and have fun! I adapted everything here from other presets (especially Minimalist and GoldenChaos - thanks to the developers!) and you can likewise use this as a template to build the perfect minimalist layout for your own workflow.
